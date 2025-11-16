@@ -1,5 +1,5 @@
 (function(back) {
-  var FILE = "blockclock.settings.json";
+  var FILE = "blockclock.json";
 
   // Load settings
   var settings = Object.assign({
