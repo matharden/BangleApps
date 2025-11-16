@@ -1,6 +1,6 @@
 {
   "id": "blockclock",
-  "name": "Block Clock",
+  "name": "Block Clock update",
   "version": "0.1",
   "description": "This is a simple clock using minimalist 2x2 pixel numerical digits",
   "icon": "app.png",
