@@ -1,6 +1,6 @@
 {
   "id": "blockclock",
-  "name": "Block Clock reordered",
+  "name": "Block Clock",
   "version": "0.1",
   "description": "This is a simple clock using minimalist 2x2 pixel numerical digits",
   "icon": "app.png",
@@ -14,5 +14,5 @@
     {"name":"blockclock.settings.js","url":"settings.js"},
     {"name":"blockclock.img","url":"icon.js","evaluate":true}
   ],
-  "data": [{"name":"blockclock.settings.json"}]
+  "data": [{"name":"blockclock.json"}]
 }
