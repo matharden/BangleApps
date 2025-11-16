@@ -1,7 +1,7 @@
 var settings = Object.assign({
   beginner: false,
   colour: false,
-}, require('Storage').readJSON("blockclock.settings.json", true) || {});
+}, require('Storage').readJSON("blockclock.json", true) || {});
 
 // Gap between digits.
 const digitGap = settings.beginner ? 4 : 3;
