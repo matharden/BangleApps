@@ -3,7 +3,7 @@
   "name": "Block Clock",
   "version": "0.1",
   "description": "This is a simple clock using minimalist 2x2 pixel numerical digits",
-  "icon": "blockclock.icon.png",
+  "icon": "app.png",
   "type": "clock",
   "tags": "clock",
   "supports": ["BANGLEJS","BANGLEJS2"],
