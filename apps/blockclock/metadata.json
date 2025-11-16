@@ -1,0 +1,18 @@
+{
+  "id": "blockclock",
+  "name": "Block Clock",
+  "version": "0.1",
+  "description": "This is a simple clock using minimalist 2x2 pixel numerical digits",
+  "icon": "blockclock.icon.png",
+  "type": "clock",
+  "tags": "clock",
+  "supports": ["BANGLEJS","BANGLEJS2"],
+  "readme": "README.md",
+  "allow_emulator": true,
+  "storage": [
+    {"name":"blockclock.app.js","url":"app.js"},
+    {"name":"blockclock.img","url":"icon.js","evaluate":true},
+    {"name":"blockclock.settings.js","url":"settings.js"}
+  ],
+  "data": [{"name":"settings.json"}]
+}
