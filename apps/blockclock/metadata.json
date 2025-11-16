@@ -14,5 +14,5 @@
     {"name":"blockclock.img","url":"icon.js","evaluate":true},
     {"name":"blockclock.settings.js","url":"settings.js"}
   ],
-  "data": [{"name":"settings.json"}]
+  "data": [{"name":"blockclock.settings.json"}]
 }
