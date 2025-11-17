@@ -94,9 +94,9 @@ function buildBangleClock() {
 }
 
 function getDigits(time) {
-  const hours = `${time.getHours()}`.split("");
+  const hours = `${time.getHours()}`.padStart(2, 0).split("");
   const hourDigit1 = hours[0], hourDigit2 = hours[1];
-  const minutes = `${time.getMinutes()}`.split("");
+  const minutes = `${time.getMinutes()}`.padStart(2, 0).split("");
   const minDigit1 = minutes[0], minDigit2 = minutes[1];
 
   return [
