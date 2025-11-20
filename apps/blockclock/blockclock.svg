@@ -1,0 +1,44 @@
+<svg fill="none" viewBox="0 0 100 100" width="400" height="400" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <div xmlns="http://www.w3.org/1999/xhtml">
+<style type="text/css">
+.d,.bc { width:41px; display:flex; flex-wrap:wrap; gap:1px }
+.bc { width:83px }
+.d > b { display:inline-block; width:20px; height:20px; }
+.w { background:#fff }
+.y { background:#ff0 }
+.c { background:#0ff }
+.g { background:#0f0 }
+.f { background:#f0f }
+.d1 {  }
+</style>
+
+<div class="bc">
+  <div class="d">
+    <b class="y"></b>
+    <b class="c"></b>
+    <b class="g"></b>
+    <b class="f"></b>
+  </div>
+  <div class="d">
+    <b class="y"></b>
+    <b class="c"></b>
+    <b class="g"></b>
+    <b class="f"></b>
+  </div>
+  <div class="d">
+    <b class="y"></b>
+    <b class="c"></b>
+    <b class="g"></b>
+    <b class="f"></b>
+  </div>
+  <div class="d">
+    <b class="y"></b>
+    <b class="c"></b>
+    <b class="g"></b>
+    <b class="f"></b>
+  </div>
+</div>
+        </div>
+    </foreignObject>
+</svg>
