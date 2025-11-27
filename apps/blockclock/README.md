@@ -7,6 +7,8 @@ Time is displayed in a grid of 4 numbers…
 > **HH  
 > MM**
 
+<img alt="Photo of Block Clock" src="blockclock-photo-2339.png" width="400" />
+
 ### The digits
 
 Each number is a grid of 4 blocks.
